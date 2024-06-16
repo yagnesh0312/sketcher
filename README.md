@@ -57,10 +57,10 @@ Make sure you have the following installed:
 1. **Create a New Project:**
 
    - Open the application in your browser.
-   - Click on the "Create New Project" button.
-   - Share the generated link and project ID with collaborators.
+   - Click on the "Create Sketch" button.
+   - Share the generated link and sketch ID with collaborators.
 
 2. **Join an Existing Project:**
    - Open the application in your browser.
-   - Enter the project ID provided by the creator.
+   - Enter the sketch id provided by the creator.
    - Start painting together!
