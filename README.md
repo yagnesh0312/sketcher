@@ -6,6 +6,7 @@ Hello from Collaborative Paint, an innovative platform that changes the way we w
 
 ## Demo
 
+![image](images/sketcher_app.png)
 ![image](images/video.gif)
 
 ## Features
