@@ -31,6 +31,8 @@ class Helper {
          transition: Transition.size,
        duration: const Duration(milliseconds: 600)
       );
+    }).onError((e,s){
+      print(e);
     });
   }
 

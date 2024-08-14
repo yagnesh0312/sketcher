@@ -4,11 +4,9 @@ import 'package:get/get.dart';
 import 'package:sketcher/firebase_options.dart';
 import 'package:sketcher/pages/auth.dart';
 
-void main() async {
+void main() async { 
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.web);
-
-
   runApp(const MyApp());
 }
 
